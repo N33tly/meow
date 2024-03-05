@@ -26,4 +26,3 @@ label start:
 
     e "its ok!"
 
-testest 
