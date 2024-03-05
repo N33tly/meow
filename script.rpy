@@ -25,3 +25,5 @@ label start:
     show ethon happy1
 
     e "its ok!"
+
+testest meowww
