@@ -25,13 +25,3 @@ label start:
     show ethon happy1
 
     e "its ok!"
-
-    show ethon happy2
-
-    e "anyways!"
-
-    e "back to what i was saying..."
-
-    e "welcome to the island of ethon the great!"
-
-    e "I'll be your guide today on this magical journey!"
