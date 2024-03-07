@@ -26,6 +26,8 @@ label start:
 
     e "its ok!"
 
+    show ethon happy2
+
     e "anyways, {i}back to what i was saying...{/i}"
 
     e "I, {i}Ethon The Great!{/i}"
