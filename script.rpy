@@ -34,6 +34,4 @@ label start:
 
     e "welcome to the island of ethon the great!"
 
-    e "I'll be your guide today"
-
-    e "on this magical journey!"
+    e "I'll be your guide today on this magical journey!"
