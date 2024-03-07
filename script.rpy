@@ -25,3 +25,9 @@ label start:
     show ethon happy1
 
     e "its ok!"
+
+    e "anyways, {i}back to what i was saying...{/i}"
+
+    e "I, {i}Ethon The Great!{/i}"
+
+    e "will be your guide on this majical journey today!"
